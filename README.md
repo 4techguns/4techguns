@@ -1,4 +1,18 @@
-i program dumb stuff but i dont usually publish them here (or make them public) due to how insecure i am about my code
+(yes, I know this bio looks ugly, I need more inspiration)
+# Welcome
+Hey! I'm a mediocre programmer that mostly does C#, Luau, Python and JavaScript<br />
+A lot of my repositories are private, but I do occasionally open them up to the public
+<br /><br />
+Current (public) projects I plan to release:
+- SiliconSharp: A C# port of [Silicon](https://github.com/ribkix/si_licon)
 
-<span>[![4techguns' GitHub stats](https://github-readme-stats.vercel.app/api?username=4techguns&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4techguns&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)</span>
+Cancelled projects (sadge):
+- HFExtensions: Extension libraries to optimise the creation of HaxeFlixel games
+- 4TechBot (old Discord bot project from 2020 that never got finished)
+
+## Stats
+  [![4techguns' GitHub stats](https://github-readme-stats.vercel.app/api?username=4techguns&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4techguns&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+## Discord<br />
 [![Discord Presence](https://lanyard.cnrad.dev/api/752617663888359444)](https://discord.com/users/752617663888359444)
