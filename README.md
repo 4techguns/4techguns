@@ -4,10 +4,11 @@ Hey! I'm a mediocre programmer that mostly does C#, Luau, Python and JavaScript<
 A lot of my repositories are private, but I do occasionally open them up to the public
 <br /><br />
 Current (public) projects I plan to release:
-- SiliconSharp: A C# port of [Silicon](https://github.com/ribkix/si_licon)
+- None yet :pensive:
 
 Cancelled projects (sadge):
 - HFExtensions: Extension libraries to optimise the creation of HaxeFlixel games
+- SiliconSharp: A C# port of [Silicon](https://github.com/ribkix/si_licon)
 - 4TechBot (old Discord bot project from 2020 that never got finished)
 
 ## Stats
