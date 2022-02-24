@@ -4,7 +4,7 @@ Hey! I'm a mediocre programmer that mostly does C#, Luau, Python and JavaScript<
 A lot of my repositories are private, but I do occasionally open them up to the public
 <br /><br />
 Current (public) projects I plan to release:
-- None yet :pensive:
+- None yet :pensive: (we don't speak of [indiGONE](https://github.com/4techguns/indiGONE)
 
 Cancelled projects (sadge):
 - HFExtensions: Extension libraries to optimise the creation of HaxeFlixel games (never felt the need to finish it, but it was a pretty cool conept)
