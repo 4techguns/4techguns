@@ -7,7 +7,7 @@ Current (public) projects I plan to release:
 - None yet :pensive:
 
 Cancelled projects (sadge):
-- HFExtensions: Extension libraries to optimise the creation of HaxeFlixel games (never felt the need to finish it, but it was a pretty cool conept)
+- HFExtensions: Extension libraries to optimise the creation of HaxeFlixel games (never felt the need to finish it, but it was a pretty cool concept)
 - SiliconSharp: A C# port of [Silicon](https://github.com/ribkix/si_licon) (why must C# be a statically typed language :waaa:)
 - 4TechBot (old Discord bot project from 2020 that never got finished)
 
