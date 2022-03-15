@@ -3,8 +3,9 @@
 Hey! I'm a mediocre programmer that mostly does C#, Luau, Python and JavaScript<br />
 A lot of my repositories are private, but I do occasionally open them up to the public
 <br /><br />
-Current (public) projects I plan to release:
-- None yet :pensive:
+Active projects:
+- [Basic Avatar Generator](https://github.com/4techguns/BasicAvatarGenerator)
+- [4techguns.ga (my website)](https://github/4techguns/4techgunsdotga)
 
 Cancelled projects (sadge):
 - HFExtensions: Extension libraries to optimise the creation of HaxeFlixel games (never felt the need to finish it, but it was a pretty cool concept)
