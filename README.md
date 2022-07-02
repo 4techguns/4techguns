@@ -1,5 +1,5 @@
 # Welcome
-Hi! I'm a mediocre programmer that mostly does C#, Python, Java, JavaScript, and TypeScript. (Learning C++, Kotlin)<br />
+Hi! I'm a mediocre programmer that mostly does C#, Kotlin, JavaScript, Java, TypeScript, and Python. (Learning C++)<br />
 <br />
 Active projects:
 - [Thirty Dollar Libraries](https://github.com/ThirtyDollarLibraries)
