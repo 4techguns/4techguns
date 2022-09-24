@@ -2,17 +2,28 @@
 I'm a (possibly?) growing app developer that has either huge, ambitious ideas or really crappy ones; mostly the latter \
 Not fully open to be hired but my experience showcase is down below
 
-## :technologist: Languages I know:
-- :snake: Python (since 2020)
-- :coffee: Java (since 2021)
-- :moon: Roblox Luau (since 2021)
-- :yellow_square: JavaScript (since 2021)
-- :green_circle: C# (since 2022)
-- :orange_square: Kotlin (since 2022)
-- :blue_square: TypeScript (since 2022)
+## :technologist: Skills
 
-## :question: What I can do:
-- Small to medium-size Discord bots
-- Web development - mainly React, but in rare cases plain HTML
-  - JS frameworks: Next.js, RedwoodJS
-- Maybe more in the future!
+### Programming languages
+[![Programming languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,cs,dotnet,java,kotlin,py)](https://skillicons.dev)
+
+### Code editors
+[![Code editors](https://skillicons.dev/icons?i=vscode,neovim,vim,visualstudio,idea)](https://skillicons.dev)
+
+### Fullstack frameworks
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,express)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
+
+### Libraries
+[![Libraries](https://skillicons.dev/icons?i=prisma,graphql,react,webpack)](https://skillicons.dev)
+
+### Testing
+[![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+
+### Deployment
+[![Deployment](https://skillicons.dev/icons?i=vercel,netlify,docker,kubernetes)](https://skillicons.dev)
+
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=4techguns&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
