@@ -5,7 +5,7 @@ Not fully open to be hired but my experience showcase is down below
 ## :technologist: Skills
 
 ### Programming languages
-[![Programming languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,cs,dotnet,java,kotlin,py)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,cs,dotnet,java,kotlin,py,graphql)](https://skillicons.dev)
 
 ### Code editors
 [![Code editors](https://skillicons.dev/icons?i=vscode,neovim,vim,visualstudio,idea)](https://skillicons.dev)
@@ -17,7 +17,7 @@ Not fully open to be hired but my experience showcase is down below
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
 
 ### Libraries
-[![Libraries](https://skillicons.dev/icons?i=prisma,graphql,react,webpack)](https://skillicons.dev)
+[![Libraries](https://skillicons.dev/icons?i=prisma,react,webpack)](https://skillicons.dev)
 
 ### Testing
 [![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
